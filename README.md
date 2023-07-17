@@ -4,7 +4,7 @@ https://www.anaconda.com/download
 
 ## 課程用套件
 
-CharGPT
+ChatGPT
 
 pip  install openai
 
