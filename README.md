@@ -1,7 +1,8 @@
 # pythonBase20230703
 ### anaconda
 https://www.anaconda.com/download
-
+### 氣象局API網址
+https://opendata.cwb.gov.tw/dist/opendata-swagger.html
 ## 課程用套件
 
 ChatGPT
