@@ -6,7 +6,11 @@ https://opendata.cwb.gov.tw/dist/opendata-swagger.html
 ### 氣象局登入平台
 [氣象局登入平台](https://opendata.cwb.gov.tw/userLogin)
 
+### 電影排行榜
+https://zh.wikipedia.org/zh-tw/2023%E5%B9%B4%E7%94%B5%E5%BD%B1
 
+### 新翻列表
+https://acgsecrets.hk/bangumi/202301/
 ## 課程用套件
 
 ChatGPT
